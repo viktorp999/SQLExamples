@@ -1,0 +1,1 @@
+SELECT phone, city, state FROM customers;

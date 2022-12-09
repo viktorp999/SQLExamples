@@ -1,0 +1,2 @@
+ALTER TABLE new_accounts
+MODIFY email VARCHAR(70) NULL;

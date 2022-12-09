@@ -1,0 +1,2 @@
+SELECT * FROM payments
+WHERE amount NOT IN(14571.44, 32641.98, 6066.78);

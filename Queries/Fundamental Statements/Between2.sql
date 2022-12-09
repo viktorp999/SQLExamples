@@ -1,0 +1,3 @@
+SELECT * FROM payments
+WHERE paymentDate NOT BETWEEN '2003-01-01' AND '2004-01-01';
+
